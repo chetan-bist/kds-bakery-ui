@@ -1,7 +1,7 @@
 # KDS Bakery Website & Mobile App UI 🧁🎂
 
 A modern, attractive, and user-friendly **Bakery Website and Mobile App UI** designed for **KDS Bakery**.  
-This project focuses on clean UI/UX, smooth user flow, and production-ready design using **Figma**.
+This project focuses on clean UI/UX, smooth user flow, and production-ready design using **Figma** and implemented with **Next.js**.
 
 ---
 
@@ -85,44 +85,22 @@ Home → Custom Cake Order → Login → Checkout → Confirmation
 
 ## 🛠 Tools Used
 
-- **Figma**
-- Auto-layout
-- Reusable components
+- **Figma** – UI/UX design
+- **Next.js** – React framework for production
+- Auto-layout & reusable components
 - Mobile & Web frames
 
 ---
 
-## 📂 Project Scope
+## 💻 Getting Started (Next.js)
 
-✔ UI/UX Design  
-✔ Page Flow & Navigation  
-✔ Component-based Design  
-❌ Backend not included  
-❌ Payment gateway not implemented  
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
----
+### Install Dependencies
 
-## 📌 Use Cases
-
-- Bakery website design
-- Bakery mobile app UI
-- UI/UX portfolio project
-- Frontend development reference
-
----
-
-## ⚠️ Disclaimer
-
-This project is created for **educational and portfolio purposes only**.  
-All brand names and images are used for demonstration purposes.
-
----
-
-## 👤 Author
-
-Designed by **Chetan Bist**  
-📍 Nepal
-
----
-
-⭐ If you like this project, give it a star on GitHub!
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
