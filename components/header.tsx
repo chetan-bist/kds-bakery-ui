@@ -9,7 +9,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between gap-8">
           {/* Logo */}
-          <div className="flex items-center gap-2 flex-shrink-0">
+          <div className="flex items-center gap-2 shrink-0">
             <div className="w-6 h-6 bg-primary rounded"></div>
             <span className="font-serif text-xl font-bold text-primary">
               KDS Bakery
