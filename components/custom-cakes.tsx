@@ -35,7 +35,7 @@ export default function CustomCakes() {
             {/* Image */}
             <div className="hidden lg:block">
               <img
-                src="/baker-decorating-custom-three-tier-floral-wedding-.jpg"
+                src="/baker-decorating-custom-three-tier-floral-wedding.png"
                 alt="Custom cake design"
                 className="w-full h-full object-cover"
               />
